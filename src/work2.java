@@ -7,6 +7,8 @@ public class work2 {
         double profit = scanner.nextDouble();
         double bonus = 0;
         double test2 = 4;
+        double test = 1;
+
         if (profit <= 100000) {
             bonus = profit * 0.10;
         } else if (profit <= 200000) {
