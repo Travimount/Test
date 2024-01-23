@@ -16,4 +16,7 @@ public class work1 {
             System.out.println("neither");
         }
     }
+
+
+    
 }
