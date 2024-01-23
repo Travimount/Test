@@ -6,6 +6,7 @@ public class work2 {
         System.out.println("Enter profit amount (in yuan): ");
         double profit = scanner.nextDouble();
         double bonus = 0;
+        double test = 1;
 
         if (profit <= 100000) {
             bonus = profit * 0.10;
